@@ -1,0 +1,20 @@
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\bin\Debug\arreys.exe.config
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\bin\Debug\arreys.exe
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\bin\Debug\arreys.pdb
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\obj\Debug\arreys.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\obj\Debug\arreys.Form1.resources
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\obj\Debug\arreys.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\obj\Debug\arreys.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\obj\Debug\arreys.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\obj\Debug\arreys.exe
+C:\Users\Sydney\Documents\programaçao\arreys\arreys\obj\Debug\arreys.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\bin\Debug\arreys.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\bin\Debug\arreys.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\bin\Debug\arreys.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\obj\Debug\arreys.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\obj\Debug\arreys.Form1.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\obj\Debug\arreys.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\obj\Debug\arreys.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\obj\Debug\arreys.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\obj\Debug\arreys.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\arreys\arreys\obj\Debug\arreys.pdb
